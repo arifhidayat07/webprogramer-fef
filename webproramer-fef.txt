@@ -1,1 +1,2 @@
 1. membuat program dasar
+2. membuat cicak supaya terbang
